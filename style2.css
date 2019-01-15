@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css?family=Francois+One');
+
+html, body {
+    background: black;
+}
+
+
+
+
+#começo .bk-azul {
+    padding: 40px 30px;
+    background: #01547a;
+    transition: all 3s;
+    height: 550px;
+    font-family: 'Francois One';
+    color:#ffff
+}
+
+#começo .bk-azul:hover {
+    background-color: #e289da
+}
+
+
+
+#começo .bk-rosa {
+    padding: 40px 30px;
+    background: #671442;
+    transition: all 3s;
+    height: 550px;
+    font-family: 'Francois One';
+    color:#ffff
+}
+
+#começo .bk-rosa:hover {
+    background-color: #e1e469
+}
+
+
+#começo .bk-rosa .lobby{
+    width: 350px;
+    height: 200px;
+}
+
+#começo .bk-azul .server{
+    width: 350px;
+    height: 200px;
+}
+
+
+
+#segunda .bk-vermelho {
+    padding: 40px 30px;
+    background: #fa1205;
+    transition: all 3s;
+    height: 550px;
+    font-family: 'Francois One';
+    color:#ffff
+}
+
+#segunda .bk-vermelho:hover {
+    background-color: #1b3094
+}
+
+#segunda .bk-preto {
+    padding: 40px 30px;
+    background: #333333;
+    transition: all 3s;
+    height: 550px;
+    font-family: 'Francois One';
+    color:#ffff
+}
+
+#segunda .bk-preto:hover {
+    background-color: #f56b6f
+}
+
+#segunda .bk-preto .torneio{
+    width: 350px;
+    height: 200px;
+}
+
+#segunda .bk-vermelho .ranked{
+    width: 350px;
+    height: 200px;
+}
+
+
+#terceira .bk-verde {
+    padding: 40px 30px;
+    background: #067915;
+    transition: all 3s;
+    height: 500px;
+    font-family: 'Francois One';
+    color:#ffff
+}
+
+#terceira .bk-verde:hover {
+    background-color: #a3c2d1
+}
+
+#terceira .bk-azul2 {
+    padding: 40px 30px;
+    background: #367a8d;
+    transition: all 3s;
+    height: 500px;
+    font-family: 'Francois One';
+    color:rgb(10, 2, 2)
+}
+
+#terceira .bk-azul2:hover {
+    background-color: #7a2121
+}
+
+#terceira .bk-verde .estrategia{
+    width: 350px;
+    height: 200px;
+}
+
+#terceira .bk-azul2 .logo{
+    width: 350px;
+    height: 200px;
+}

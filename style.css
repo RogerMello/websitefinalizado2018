@@ -1,0 +1,158 @@
+
+
+
+/*Fontes direta do Google Fonts */
+@import url('https://fonts.googleapis.com/css?family=Francois+One');
+
+html, body {
+    background: rgb(227, 239, 250);
+}
+
+#divBusca{
+    background-color:#E0EEEE;
+    border:solid 2px #000000;
+    border-radius:10px;
+    width:300px;
+    height:32px;
+  }
+   
+  #txtBusca{
+    float:left;
+    background-color:transparent;
+    padding-left:5px; 
+    font-size:18px;
+    border:none;
+    height:32px;
+    width:191px;
+  }
+   
+  #btnBusca{
+    border:none;
+    float:left;
+    height:32px;
+    border-radius:0 7px 7px 0;
+    width:70px;
+    font-weight:bold;
+    background:#5F9EA0;
+  }
+   
+  #divBusca img{
+    float:left;
+  }
+
+#home {
+    background: url(imagem/WALLPAPER3.jpg) no-repeat center center fixed;
+    display: table;
+    height: 100vh;
+    position: relative;
+    width: 100%;
+    background-size: cover; 
+}
+
+
+.landing-text {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    font-family: 'Francois One';
+    color: #ffffff
+}
+.landing-text {
+    font-size: 1600%;
+    font-weight: 700%;
+}
+.padding {
+    padding: 80px 0;
+}
+
+#imagem {
+    font-family:'Francois One';
+    background: url(imagem/areascsgo.jpg) no-repeat center center fixed;
+    display: table;
+    height: 70vh;
+    position: relative;
+    width: 100%;
+    background-size: cover; 
+    color: #ffffff 
+     
+
+}
+
+#icones {
+    width: 100%;
+}
+
+footer {
+    width: 100%;
+    background-color: rgb(10, 10, 10);
+    padding: 3%;
+    color: #ffffff
+}
+
+    
+
+
+#logo .icon {
+    width: 130px;
+    height: 130px;
+}
+
+.global-elite{
+    width: 100px;
+    height: 100px;
+}
+
+.contaprime{
+    width: 100px;
+    height: 100px;
+}
+
+.torneio{
+    width: 330px;
+    height: 100px;
+}
+
+.divisor1 {
+    background: #ee0707;
+    width: 60%;
+    height: 2px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2%
+}
+
+.divisor2 {
+    background: #ee0707;
+    width: 50%;
+    height: 2px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+}
+
+#sejaumpro .rounded{
+width: 270px;
+ height: 290px;
+}
+
+#listas .rounded {
+    width: 270px;
+ height: 230px;
+}
+
+#começo .pin {
+    width: auto;
+ height: 300px;
+}
+
+#rodape .social i{
+    margin-right: 30px;
+    padding: 20px;
+    font-size: 30px;
+    color: #ffff
+}
+
+#meumenu .busca {
+    margin-bottom: 10%;
+    background-color: #ffffff;
+}
